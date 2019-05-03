@@ -1,0 +1,11 @@
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\bin\Debug\netcoreapp2.1\IPadresses.deps.json
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\bin\Debug\netcoreapp2.1\IPadresses.runtimeconfig.json
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\bin\Debug\netcoreapp2.1\IPadresses.runtimeconfig.dev.json
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\bin\Debug\netcoreapp2.1\IPadresses.dll
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\bin\Debug\netcoreapp2.1\IPadresses.pdb
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\obj\Debug\netcoreapp2.1\IPadresses.csproj.CoreCompileInputs.cache
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\obj\Debug\netcoreapp2.1\IPadresses.AssemblyInfoInputs.cache
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\obj\Debug\netcoreapp2.1\IPadresses.AssemblyInfo.cs
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\obj\Debug\netcoreapp2.1\IPadresses.dll
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\obj\Debug\netcoreapp2.1\IPadresses.pdb
+C:\Users\Nergal\source\repos\IPadresses\IPadresses\obj\Debug\netcoreapp2.1\IPadresses.csprojAssemblyReference.cache
